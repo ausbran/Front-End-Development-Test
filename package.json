@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SageVanGogt/Front-End-Development-Test/issues"
   },
-  "homepage": "https://github.com/SageVanGogt/Front-End-Development-Test#readme"
+  "homepage": "https://github.com/SageVanGogt/Front-End-Development-Test#readme",
+  "dependencies": {
+    "sass": "^1.14.3"
+  }
 }
