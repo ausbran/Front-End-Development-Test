@@ -1,0 +1,20 @@
+{
+  "name": "Front-End-Development-Test",
+  "version": "1.0.0",
+  "description": "![teton-gravity-research-logo](https://user-images.githubusercontent.com/25068260/46886003-cc7ac380-ce16-11e8-9078-923672736395.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SageVanGogt/Front-End-Development-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SageVanGogt/Front-End-Development-Test/issues"
+  },
+  "homepage": "https://github.com/SageVanGogt/Front-End-Development-Test#readme"
+}
