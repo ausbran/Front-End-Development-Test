@@ -41,4 +41,4 @@ This is a front end development test, specifically geared to test abilities in s
 ## Deliverables and Deadline
 Please deliver final product by forking this repositiory on your personal git hub account. When completed, email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
 
-Take your time but try to deliver it within 3 days time.
+Take your time but try to deliver it within 6 days time.
