@@ -39,6 +39,6 @@ This is a front end development test, specifically geared to test abilities in s
 - Have files been optimized? Are best suited image file types being utilized for graphics? 
 
 ## Deliverables and Deadline
-Please deliver final product by forking this repositiory on your personal git hub account. When completed, email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
+Please deliver final product by cloning this repositiory on your personal git hub account. When completed, email the repo URL to austin.branham@tetongravity.com and drew.holt@tetongravity.com
 
 Take your time but try to deliver it within 6 days time.
